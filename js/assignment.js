@@ -15,6 +15,7 @@ const book = "Too Loud a Solitude";
 // Declare a mutable variable named "activity" and assign
 // an activity to it.
 
+let activity = "mushroom hunting";
 
 
 function updateBookSentence() {
