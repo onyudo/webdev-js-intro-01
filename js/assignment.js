@@ -10,6 +10,7 @@ const submissionBtn = document.getElementById("submission-btn")
 // Declare a constant variable named "book" and assign
 // the name of your favorite book to that variable.
 
+const book = "Too Loud a Solitude";
 
 // Declare a mutable variable named "activity" and assign
 // an activity to it.
