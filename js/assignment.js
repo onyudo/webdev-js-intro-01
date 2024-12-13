@@ -21,7 +21,7 @@ let activity = "mushroom hunting";
 function updateBookSentence() {
     // Sets the text inside the element with the id of book answer. 
     // innerText is one of many properties on a HTML element.
-    bookAnswerEl.innerText = book
+    bookAnswerEl.innerText = book;
 }
 
 function updateActivitySentence() {
@@ -34,6 +34,7 @@ function updateActivitySentence() {
 function render() {
     // Finish writing this function
     updateBookSentence();
+    updateActivitySentence();
 
 }
 
