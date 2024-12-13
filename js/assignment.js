@@ -28,6 +28,7 @@ function updateActivitySentence() {
     // Update this function 
     // (hint: it will be similiar to the previous function)
 
+    activityAnswerEl.innerText = activity;
 }
 
 function render() {
